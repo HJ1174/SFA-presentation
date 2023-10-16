@@ -1,6 +1,6 @@
 # SFA-presentation
 
-<h1> Opportunities </h1>
+## Opportunities
 <strong>Collaboration: </strong>The collaboration between Development, Operations, and a newly formed DevOps team can help break down silos and improve communication and collaboration across departments. This can benefit the QA team by fostering better teamwork.<br>
 <strong>Continuous Testing:</strong> DevOps encourages continuous integration and continuous delivery (CI/CD), which means that testing is integrated into the development pipeline. This allows the QA team to conduct continuous testing, identify issues earlier in the development process, and ensure better software quality.<br>
 <strong>Automation: </strong>Automation is a core aspect of DevOps, including automated testing. The QA team can leverage this to automate repetitive testing tasks, reducing the manual testing effort and increasing efficiency.<br>
