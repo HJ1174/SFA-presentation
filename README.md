@@ -6,7 +6,7 @@
 <strong>Automation: </strong>Automation is a core aspect of DevOps, including automated testing. The QA team can leverage this to automate repetitive testing tasks, reducing the manual testing effort and increasing efficiency.<br>
 <strong>Feedback Loop:</strong> DevOps emphasizes rapid feedback, which means the QA team can receive quick feedback on the quality of the software. This feedback loop enables faster issue resolution and better responsiveness to changes.<br>
 
-##### Fit within the Team:
+## Fit within the Team:
 <strong> Automation </strong>: The QA team should automate testing processes and collaborate with Development and Operations to create automated test scripts for the CI/CD pipeline.<br>
 <strong> Collaboration </strong>: QA team members should work closely with developers, operations, and other stakeholders to integrate testing throughout the software delivery process.<br>
 <strong> Continuous Improvement </strong>: The QA team should engage in retrospectives and feedback sessions to identify areas for improvement in development and testing processes.<br>
