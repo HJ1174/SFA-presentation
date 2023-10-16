@@ -5,4 +5,4 @@
 <p>***Collaboration***: QA team members should work closely with developers, operations, and other stakeholders to ensure that testing is integrated throughout the software delivery process.</p>
 <p>***Continuous Improvement***: The QA team should participate in retrospectives and feedback sessions to identify areas for improvement in the development and testing processes.</p>
 <p>***Monitoring and Feedback***: QA should focus on continuous monitoring and provide feedback on the quality of software in real-time, allowing for quick issue resolution.</p>
-<p>***</p>Security and Compliance***: QA should play a critical role in ensuring security and compliance testing is integrated into the DevOps pipeline.
+<p>***Security and Compliance***: QA should play a critical role in ensuring security and compliance testing is integrated into the DevOps pipeline.</p>
