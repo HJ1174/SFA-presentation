@@ -16,6 +16,6 @@
 ## _Fit within the Team:_
 <strong> Automation </strong>: The QA team should automate testing processes and collaborate with Development and Operations to create automated test scripts for the CI/CD pipeline.<br>
 <strong> Collaboration </strong>: QA team members should work closely with developers, operations, and other stakeholders to integrate testing throughout the software delivery process.<br>
-<strong> Continuous Improvement </strong>: The QA team should engage in retrospectives and feedback sessions to identify areas for improvement in development and testing processes.<br>
+<strong> Continuous Improvement </strong>: The QA team should engage in retrospectives and feedback sessions regularly to identify areas for improvement in development and testing processes.<br>
 <strong> Monitoring and Feedback </strong>: QA should focus on continuous monitoring, providing real-time feedback on software quality, enabling quick issue resolution.<br>
 <strong> Security and Compliance </strong>: QA should play a pivotal role in ensuring security and compliance testing is seamlessly integrated into the DevOps pipeline.<br>
