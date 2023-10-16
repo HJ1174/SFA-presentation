@@ -1,4 +1,5 @@
 # SFA-presentation
+# DevOps Scenario
 
 ## _Opportunities_
 <strong>Collaboration: </strong>The collaboration between Development, Operations, and a newly formed DevOps team can help break down silos and improve communication and collaboration across departments. This can benefit the QA team by fostering better teamwork.<br>
@@ -6,7 +7,7 @@
 <strong>Automation: </strong>Automation is a core aspect of DevOps, including automated testing. The QA team can leverage this to automate repetitive testing tasks, reducing the manual testing effort and increasing efficiency.<br>
 <strong>Feedback Loop:</strong> DevOps emphasizes rapid feedback, which means the QA team can receive quick feedback on the quality of the software. This feedback loop enables faster issue resolution and better responsiveness to changes.<br>
 
-## _Challenges _
+## _Challenges_
 <strong>Tooling:</strong> The scenario mentions that the Development and Operations teams are instructed to search for their preferred tools. While choice is good, it can lead to a fragmented tooling landscape that may require integration efforts. The QA team may need to adapt to various tools. <br>
 <strong>Skill Gaps: </strong>The existing Development and Operations teams may need to acquire new skills to fully embrace DevOps practices, and this might lead to some initial skill gaps. The QA team should be prepared to support training and skill development. <br>
 <strong>Culture Shift: </strong>Transitioning to DevOps requires a cultural shift where collaboration and continuous improvement are emphasized. The QA team should actively participate in this cultural change and embrace the principles of DevOps.<br>
