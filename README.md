@@ -8,7 +8,11 @@
 <strong>Feedback Loop:</strong> DevOps emphasizes rapid feedback, which means the QA team can receive quick feedback on the quality of the software. This feedback loop enables faster issue resolution and better responsiveness to changes.<br>
 
 ## _Challenges_
-
+<strong>Skill Gaps:</strong> The existing Development and Operations teams may need to pick up new skills to fully adopt DevOps practices. This might lead to some initial skill gaps. The QA team should be prepared to support training and skill development.<br>
+<strong>Culture Shift: </strong>Adopting DevOps requires a cultural and mindset shift where collaboration between teams and continuous improvement are emphasized. The QA team should actively participate in this cultural change and embrace the principles of DevOps.<br>
+<strong>Security and Compliance: </strong>QA should ensure that security and compliance aspects are not compromised during the transition to DevOps. Security testing and compliance checks need to be integrated into the CI/CD pipeline.<br>
+<strong>Tooling: </strong> The Development and Operations teams have to search for their preferred tools. This may lead to an environment of disorganized tooling system that may require integration efforts. The QA team may need to adapt to various tools. <br>
+<strong>Suitability:</strong> Not all projects can be used with DevOps as the framework, further assessment is required for individual projects if they can adopt the DevOps mindset.<br>
 
 
 ## _Fit within the Team:_
