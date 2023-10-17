@@ -44,3 +44,4 @@ else:
     print("You fall into a hole. Game Over!!")
 
 #new comment from Winni
+print("\nthis is the end of the game. thank you for playing. Please rerun to play the game again\n\n")
