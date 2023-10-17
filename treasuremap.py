@@ -42,3 +42,5 @@ if choice1 == "left":
         print("You get attacked by a trout. Game Over!")
 else:
     print("You fall into a hole. Game Over!!")
+
+print("\nthis is the end of the game. thank you for playing. Please rerun to play the game again\n\n")
